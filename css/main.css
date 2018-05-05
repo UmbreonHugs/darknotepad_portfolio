@@ -8,8 +8,8 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  h1{
-      font-size:18px;
+  .display-1{
+    font-size: 3.5rem;
   }
 }
 /* Responsive Carousel */
