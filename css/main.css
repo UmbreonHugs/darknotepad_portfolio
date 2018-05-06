@@ -14,7 +14,7 @@ body {
 }
 /* Responsive Carousel */
 .carousel-item {
-  height:100vh;
+  height:20vh;
   background-size:cover !important;
   background-position:center !important;
 }
