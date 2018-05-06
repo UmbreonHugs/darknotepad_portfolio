@@ -6,7 +6,13 @@ body {
 .text-logo {
   color: #ffd000;
 }
+a:hover {
+  color: #ffd000;
+}
 /* Social media buttons */
+.btn a:hover{
+  color: #fff;
+}
 .btn-twitch {
   color: #fff;
   background-color: #8000ff;
