@@ -6,7 +6,27 @@ body {
 .text-logo {
   color: #ffd000;
 }
-
+/* Social media buttons */
+.btn-twitch {
+  color: #fff;
+  background-color: #8000ff;
+}
+.btn-twitter {
+  color: #fff;
+  background-color: #00baff;
+}
+.btn-tumblr {
+  color: #fff;
+  background-color: #325287;
+}
+.btn-github {
+  color: #fff;
+  background-color: #000000;
+}
+.btn-paypal {
+  color: #fff;
+  background-color: #002c82;
+}
 @media screen and (max-width: 768px) {
   .display-1 {
     font-size: 3.5rem;
