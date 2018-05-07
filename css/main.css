@@ -13,7 +13,8 @@ body {
 }
 .heading-seperator {
   height: 2px;
-  color: #ffd000;
+  background-color: #ffd000;
+  clear: both;
 }
 a:hover {
   color: #ffd000;
