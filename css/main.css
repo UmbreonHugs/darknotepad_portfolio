@@ -5,6 +5,10 @@ body {
   background: linear-gradient(90deg, rgba(8,8,8,1) 0%, rgba(27,27,27,1) 35%, rgba(45,45,45,1) 100%);
 }
 .text-logo {
+  font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+  font-size: 16px;
+}
+.primary {
   color: #ffd000;
 }
 a:hover {
