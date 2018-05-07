@@ -11,6 +11,10 @@ body {
 .primary {
   color: #ffd000;
 }
+.heading-seperator {
+  height: 2px;
+  color: #ffd000;
+}
 a:hover {
   color: #ffd000;
 }
