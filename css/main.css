@@ -19,6 +19,20 @@ body {
 a:hover {
   color: #ffd000;
 }
+h2 {
+  font-weight: 300;
+  border-bottom: 1px solid #848484;
+  color: #ffd000;
+  font-size: 45px;
+  padding: 0 0 15px 0;
+}
+h3 {
+  font-weight: 300;
+  border-bottom: 1px solid #ffd000;
+  color: #d0d0d0;
+  font-size: 26px;
+  padding: 15px 0 15px 0;
+}
 /* Social media buttons */
 .btn a:hover{
   color: #fff;
