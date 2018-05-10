@@ -33,6 +33,7 @@ body::-webkit-scrollbar-thumb {
 .logo {
   width: 64px;
   height: 64px;
+  color: #ffd000;
 }
 .text-logo {
   font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
