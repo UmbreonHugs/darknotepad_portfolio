@@ -34,7 +34,6 @@ body::-webkit-scrollbar-thumb {
   width: 56px;
   height: 56px;
   margin: 8px;
-  color: #ffd000;
 }
 .primary {
   color: #ffd000;
@@ -115,7 +114,11 @@ h3 {
 @media screen and (max-width: 450px) {
   .text-logo {
     font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
-    font-size: 25px;
+    font-size: 30px;
+  }
+  .logo {
+    width: 40px;
+    height: 40px;
   }
 }
 /* Responsive Carousel */
