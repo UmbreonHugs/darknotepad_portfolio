@@ -6,11 +6,11 @@ body {
 }
 /* lets make the website stand out~ */
 ::selection {
-  background: #ffd000; /* WebKit/Blink Browsers */
+  background: #ffd000;
   color: #222;
 }
 ::-moz-selection {
-  background: #ffd000; /* Gecko Browsers */
+  background: #ffd000;
   color: #222;
 }
 body::-webkit-scrollbar {
