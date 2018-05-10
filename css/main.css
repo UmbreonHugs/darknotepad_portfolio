@@ -31,8 +31,9 @@ body::-webkit-scrollbar-thumb {
   font-weight: 300;
 }
 .logo {
-  width: 64px;
-  height: 64px;
+  width: 56px;
+  height: 56px;
+  margin: 8px;
   color: #ffd000;
 }
 .text-logo {
