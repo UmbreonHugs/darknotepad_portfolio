@@ -36,10 +36,6 @@ body::-webkit-scrollbar-thumb {
   margin: 8px;
   color: #ffd000;
 }
-.text-logo {
-  font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
-  font-size: 45px;
-}
 .primary {
   color: #ffd000;
 }
@@ -110,9 +106,16 @@ h3 {
   background-color: #002c82;
 }
 /* Responsive Logo */
-@media screen and (max-width: 768px) {
-  .display-1 {
-    font-size: 3.5rem;
+@media screen and (min-width: 451px) {
+  .text-logo {
+    font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+    font-size: 55px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .text-logo {
+    font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+    font-size: 25px;
   }
 }
 /* Responsive Carousel */
