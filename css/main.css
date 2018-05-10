@@ -27,12 +27,8 @@ body::-webkit-scrollbar-thumb {
 }
 /* adjust bootstrap stuff */
 .navbar {
-  font-size: 23px;
+  font-size: 20px;
   font-weight: 300;
-}
-.nav-link {
-  padding-right: 1.5rem;
-  padding-left: 1.5rem;
 }
 .text-logo {
   font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
